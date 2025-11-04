@@ -20,7 +20,7 @@ function App() {
         style={{ width: "100vw", height: "100vh", border: "none" }}
         allow="clipboard-read; clipboard-write; fullscreen; downloads; storage;"
         sandbox="allow-same-origin allow-scripts allow-popups allow-forms allow-top-navigation allow-top-navigation-by-user-activation allow-downloads allow-modals allow-pointer-lock allow-storage-access-by-user-activation"
-        src="https://dify.meierbei.cn/workflow/PIb7eBEmAZowdC65"
+        src="https://weishi.360.cn/?package=1__4002009"
       />
     </main>
   );
